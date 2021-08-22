@@ -3,7 +3,7 @@ from discord.ext import commands
 
 bot = commands.Bot(command_prefix=["m!", "M!", "m! ", "M! "])
 bot.remove_command('help')
-TOKEN = "ODQ5NDQ3MDAyNDU0MzYwMDk0.YLbTKw.khPslYRMXDL-OOz-VuM_Yci5I2Q"
+TOKEN = "the token"
 
 @bot.event
 async def on_command_error(ctx, error):
