@@ -1,0 +1,7 @@
+discord.py
+python_dotenv
+discord-pretty-help
+Discord-Anti-Spam
+better_profanity
+discord-pretty-help
+pillow
